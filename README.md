@@ -2,6 +2,8 @@
 
 ![Feature Highlight](https://aka.ms/ai-toolkit/feature-highlights-image)
 
+> **🧠 Cognitive Architecture Context**: This toolkit serves as the **agent development interface layer** in the [cogpilot organization's cognitive architecture](https://github.com/cogpilot/cognitive-architecture). It embodies the "ordo ab chao" principle - transforming unstructured human intent into structured, operational AI agents. See [COGPILOT_SIGNIFICANCE.md](COGPILOT_SIGNIFICANCE.md) for architectural context.
+
 ## What is AI Toolkit
 
 AI Toolkit is a powerful extension for Visual Studio Code that streamlines agent development. With AI Toolkit, you can:
@@ -55,6 +57,41 @@ Agents can now connect to external tools through MCP (Model Control Protocol) se
 |---------|-------------|------------|
 | Connect to an Existing MCP Server | Use tools from command(stdio) or HTTP (server-sent event) | <img src="https://raw.githubusercontent.com/MuyangAmigo/MuyangAmigo/main/assets/vsc_readme/mcp_existing.gif" width="350"> |
 | Build and Scaffold a New MCP Server | Start creating your own MCP server from a simple scaffold and test in Agent Builder | <img src="https://raw.githubusercontent.com/MuyangAmigo/MuyangAmigo/main/assets/vsc_readme/scaffold_mcp.gif" width="350"> |
+
+## 🧠 Cognitive Architecture Integration
+
+This repository is part of the **cogpilot organization's cognitive architecture** - a distributed intelligence ecosystem where GitHub organizations function as **cognitive cities** connected by **neural transport channels**.
+
+### Architectural Role
+
+**VSCode AI Toolkit** serves as the **primary neural interface layer** where:
+- 🎯 Human intent transforms into structured AI agents (**ordo ab chao**)
+- 🔄 Multi-model support enables **particle swarm intelligence**
+- 🕸️ MCP integration creates **operationalized RAG fabric**
+- 🏗️ Each agent mirrors the **fractal organization** of the larger architecture
+
+### Key Architectural Principles
+
+1. **Ordo Ab Chao** (Order from Chaos): Natural language → Operational agents
+2. **Fractal Organization**: Agents mirror cognitive city architecture
+3. **Introspective Protocols**: MCP servers that create MCP servers
+4. **Progressive Memory**: Agent versioning and test accumulation
+5. **Distributed Intelligence**: Multi-model coordination and ensemble reasoning
+
+### Related Repositories
+
+- **[cognitive-architecture](https://github.com/cogpilot/cognitive-architecture)**: Foundational patterns and principles
+- **particle-swarm-accelerator**: Multi-model coordination (planned)
+- **operationalized-rag-fabric**: Knowledge synthesis (planned)
+- **neural-transport-channels**: Cross-repo communication (planned)
+
+### Learn More
+
+- 📋 **[Significance Analysis](COGPILOT_SIGNIFICANCE.md)**: Deep dive into toolkit's role in cognitive architecture
+- 🏗️ **[Architecture Context](.cogpilot/ARCHITECTURE_CONTEXT.md)**: Integration points and evolution roadmap
+- 🌐 **[Cognitive Architecture Repo](https://github.com/cogpilot/cognitive-architecture)**: Enterprise overview and vision
+
+**Vision**: Transform this toolkit from isolated development tool to **neural transport-aware cognitive workbench** that embodies distributed intelligence principles.
 
 ## Feedback and resources
 
